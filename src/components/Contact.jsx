@@ -68,7 +68,7 @@ const Contact = () => {
             <FaMapMarkerAlt className="contact-icon" />
             <div>
               <h3 className="contact-label">Location</h3>
-              <p className="contact-text">Sharjah, United Arab Emirates</p>
+              <p className="contact-text">Abu Dhabi, United Arab Emirates</p>
             </div>
           </div>
         </div>

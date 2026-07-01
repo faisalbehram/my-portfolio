@@ -4,9 +4,21 @@ const Experience = () => {
   const experiences = [
     {
       title: 'Senior Software Developer',
+      company: 'ADCB (Abu Dhabi Commercial Bank)',
+      location: 'Abu Dhabi, UAE',
+      period: 'Oct 2025 – Present',
+      description: [
+        'Developing and maintaining core banking applications using Core Java and Spring Boot.',
+        'Designing and implementing RESTful APIs and integrating with downstream microservices and third‑party APIs.',
+        'Applying Hexagonal (Ports and Adapters) Architecture to improve modularity, testability, and maintainability of enterprise systems.',
+        'Eollaborating with cross‑functional teams to deliver secure, scalable, and high‑availability banking solutions.'
+      ]
+    },
+    {
+      title: 'Senior Software Developer',
       company: 'OMA Emirates',
       location: 'Sharjah, UAE',
-      period: 'Jan 2022 – Present',
+      period: 'Jan 2022 – Oct 2025',
       description: [
         'Built payment gateway & EFT Switch (ISO 8583) using Java 17 & Spring Boot',
         'Developed REST APIs, integrated AWS services (Lambda, EKS, SNS, EC2, S3, Secret Manager)',
