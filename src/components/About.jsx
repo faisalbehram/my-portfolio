@@ -26,7 +26,7 @@ const About = () => {
           <div className="detail-card">
             <h3 className="detail-title">Location</h3>
             <div className="detail-content">
-              <p className="detail-item">Sharjah, United Arab Emirates</p>
+              <p className="detail-item">Abu Dhabi, United Arab Emirates</p>
             </div>
           </div>
         </div>
