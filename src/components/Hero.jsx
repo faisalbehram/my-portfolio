@@ -1,4 +1,5 @@
 import { FaDownload } from 'react-icons/fa'
+import profileImage from '../assets/56580297.jpeg'
 import './Hero.css'
 
 const Hero = () => {
@@ -12,9 +13,11 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <div className="hero-image-placeholder">
-            <div className="profile-image">
-              <span>FB</span>
-            </div>
+            <img
+              src={profileImage}
+              alt="Faisal Behram"
+              className="profile-image"
+            />
           </div>
           
           <h1 className="hero-name">Faisal Behram</h1>
